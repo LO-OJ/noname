@@ -1,2 +1,14 @@
-# noname
-text
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/release
+/tmp
+node_modules/
+/app/app
+/app/google
+/app/gradle.properties
+package-lock.json
